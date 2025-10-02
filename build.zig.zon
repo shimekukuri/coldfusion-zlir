@@ -5,12 +5,12 @@
     .minimum_zig_version = "0.15.1",
     .dependencies = .{
         .vii = .{
-            .url = "git+https://github.com/shimekukuri/vii#aa178708d358cf609d61cf55a9945ed945e17466",
-            .hash = "vii-0.0.1-prTW2C8eAAA76tlxXctGsYMmy5NpJ5GV_3q_HO49c1Su",
+            .url = "git+https://github.com/shimekukuri/vii#9d64e52588a1d87d587b8fa397e681849a691fc0",
+            .hash = "vii-0.0.1-prTW2EMjAABjT038fctcqTNE7a6hmjI2HV55gpUI4bA2",
         },
         .zlir_plugin_core = .{
-            .url = "git+https://github.com/shimekukuri/zlir-plugin-core.git#2da5f5ff0f704283442674cb1ad56ed4272071d5",
-            .hash = "zlir_plugin_core-0.0.0-U6j6u9cOAABEgiV4_39S_h78N93LjiLaAmUCkQ9yPlv7",
+            .url = "git+https://github.com/shimekukuri/zlir-plugin-core.git#975ec786ac97ee578b82f47264cbf604d5a6a1b6",
+            .hash = "zlir_plugin_core-0.0.0-U6j6uyMPAACpnfyWW2BYOxa09F_rIxGczuICxK7qAgMQ",
         },
     },
     .paths = .{
